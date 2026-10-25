@@ -1,6 +1,8 @@
 # Avaliação de Experiência do Usuário
 ## 1. Aplicação do UEQ
-[Descrever o método utilizado e como ele pode ser aplicado numa avaliação de UX]
+<img height="340" alt="atratividade1" src="https://github.com/user-attachments/assets/16652500-4166-4709-82d0-c9450f3b695f" />
+<img height="349" alt="atratividade" src="https://github.com/user-attachments/assets/421860f6-471c-4851-bb88-f5d2e32dc2e4" />
+
 ## 2. Resultados gerais
 Apresentar os resultados das seis dimensões do UEQ:
 ![Resultado geral do UEQ](imagens/ueq-resultados.png)
